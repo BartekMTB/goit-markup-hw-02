@@ -255,6 +255,7 @@ footer address a {
   /*color czcionki nizej*/
   color: var(--brand-background);
 }
+
 .projekty div {
   background: #ffffff;
   border: 1px solid #eeeeee;
